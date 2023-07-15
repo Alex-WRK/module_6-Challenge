@@ -17,10 +17,10 @@ To use this project, follow these steps:
 2. Install the required dependencies
 3. Ensure that you have valid API keys for OpenWeatherMap and Geoapify APIs and create the `api_keys.py` file in the same directory as where you cloned this repository with your keys.
 4. api_keys.py structure should be as follows:
-   OpenWeatherMap API Key
+   ##### OpenWeatherMap API Key
     weather_api_key = "YOUR KEY HERE"
 
-   Geoapify API Key
+   ##### Geoapify API Key
     geoapify_key = "YOUR KEY HERE"
 6. Run the Jupyter Notebooks
 7. Review the generated output files and the analysis and visualization results.
